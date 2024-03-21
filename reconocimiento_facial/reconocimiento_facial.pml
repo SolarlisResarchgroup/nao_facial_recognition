@@ -7,6 +7,8 @@
     <Dialogs />
     <Resources>
         <File name="swiftswords_ext" src="behavior_1/swiftswords_ext.mp3" />
+        <File name="tada-fanfare-a-6313" src="tada-fanfare-a-6313.mp3" />
+        <File name="Trauma Center DS 2 Gentle Breeze" src="Trauma Center DS 2 Gentle Breeze.mp3" />
     </Resources>
     <Topics />
     <IgnoredPaths />
